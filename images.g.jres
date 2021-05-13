@@ -1,0 +1,22 @@
+{
+    "]18-WRg2d,!=PV{p?6[M": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMzAwAAADAzMzMzAAAAMDMzMzMAAAAwMzMzMwAAADAzMzMzAAAAMDMzMzMAAAAwMzMzMwAAADAzMzMzAAAAADMzMwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "server"
+    },
+    "IbM/M{CHL8+tK]co[%Cb": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA7u7uDgAAAODu7u7uAAAA4O7u7u4AAADg7u7u7gAAAODu7u7uAAAA4O7u7u4AAADg7u7u7gAAAODu7u7uAAAAAO7u7g4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "client"
+    },
+    "CxP7hVUE%$moC|e{T6}J": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHB3d3cAAAAAd3d3dwcAAAB3d3d3BwAAAHd3d3cHAAAAd3d3dwcAAAB3d3d3BwAAAHd3d3cHAAAAd3d3dwcAAABwd3d3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "drink"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
